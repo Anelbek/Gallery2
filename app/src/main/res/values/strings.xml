@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Gallery</string>
+    <string name="The_starry_night">Звездная ночь</string>
+    <string name="Landscape_with_carriage_and_train">Пейзаж в Овере после дождя</string>
+    <string name="kolhoznyi_toi">Tой</string>
+    <string name="The_Two_Fridas">Две Фриды</string>
+    <string name="two_girls_reading">Две читающие девушки</string>
+    <string name="monna_liza">Мона Лиза</string>
+    <string name="Vincent_van_Gogh">Винсент Виллем Ван Гог (1889)</string>
+    <string name="Vincent_van_Gogh1">Винсент Виллем Ван Гог (1890)</string>
+    <string name="Leonardo_da_Vinci">Леонардо да Винчи (1503-19)</string>
+    <string name="Kasteev">Абильхан Кастеев (1937)</string>
+    <string name="Frida_Kahlo">Фрида Кало (1939)</string>
+    <string name="Picasso">Пабло Пикассо (1934)</string>
+</resources>
